@@ -9,7 +9,7 @@ The sourse code could be found here: http://insideairbnb.com/get-the-data/
 4. Exploration relationships and patterns in the data using visualizations
 5. Preparing the correlation matrix
 
-## Here are some images providing a visual representation of the prepared exploration
+ Here are some images providing a visual representation of the prepared exploration
 
 ## Missing valuables in the dataset
 
