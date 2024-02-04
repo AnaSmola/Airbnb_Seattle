@@ -44,7 +44,7 @@ This suggests that properties offering more sleeping places often have higher pr
 
 ![image](https://github.com/AnaSmola/Airbnb_Seattle/assets/94449616/ab7f9823-eb09-4f11-900b-ba1519e96e78)
 
-
+The code provides a step-by-step guide for a practical data analysis task and also exposes newcomers to essential concepts and practices in programming and data analysis.
 
 
 
